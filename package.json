@@ -1,0 +1,19 @@
+{
+  "name": "spectrum-login",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Damian Freeman",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "public-ip": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "license": "MIT"
+}
